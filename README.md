@@ -23,4 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaswanth-2004&show_icons=true&locale=en" alt="yaswanth-2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth-2004&" alt="yaswanth-2004" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthraje2004&" alt="yaswanthraj" /></p>
+
+
+### 📊**Leetcode Stats**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yaswanthraje2004?theme=dark)](https://leetcode.com/yaswanthraje2004)
